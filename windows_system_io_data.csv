@@ -1,0 +1,2 @@
+timestamp,instructions,LLC-stores,L1-icache-load-misses,branch-load-misses,node-load-misses,rd_req,rd_bytes,wr_req,wr_bytes,flushoperations,rd_total_times,wr_total_time,flush_total
+2025-05-30 10:40:51,1765481,9188,978029,24583,125,169562.0,5697382400.0,179444.0,2194422545.0666666,0.0,171.0,153.0,0.0

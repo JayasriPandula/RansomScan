@@ -1,0 +1,8 @@
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Locky\file0.lck
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Locky\file1.lck
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Locky\file2.lck
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Ryuk\file0.ryk
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Ryuk\file1.ryk
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\Ryuk\file2.ryk
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\WannaCry\file0.wncry
+C:\Users\jayas\code folder\code folder\ransomware_sim\simulated\WannaCry\file1.wncry
